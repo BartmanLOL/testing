@@ -1,0 +1,7 @@
+basename
+
+rwxrwxrwx
+owner::other
+
+df - dyski i przestrzeń 
+
